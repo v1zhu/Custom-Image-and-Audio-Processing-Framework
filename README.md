@@ -1,4 +1,5 @@
 Custom Image & Audio Processing Framework - Programming and Basic Data Structures for Data Science (DSC 20)
+
 This project implements a modular, object-oriented system for processing and classifying multimedia data, including RGB images and 1D audio waveforms. It features a tiered image/audio processing pipeline
 and a custom K-Nearest Neighbors (KNN) image classifier built from scratch.
 
