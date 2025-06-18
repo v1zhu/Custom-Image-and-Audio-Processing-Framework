@@ -6,27 +6,27 @@ and a custom K-Nearest Neighbors (KNN) image classifier built from scratch.
 
 Technologies & Concepts
 
-Python (OOP): Classes, inheritance, encapsulation
-Data Structures: Lists, nested data structures 
-Algorithm Design: Distance metrics, sorting, voting systems
+Python (OOP): Classes, inheritance, encapsulation  
+Data Structures: Lists, nested data structures  
+Algorithm Design: Distance metrics, sorting, voting systems  
 Testing: Doctests embedded in class method  
-Command Line Development: Terminal-based file I/O for testing
+Command Line Development: Terminal-based file I/O for testing  
 
-Features
-1. Image Processing
-Grayscale conversion
-Brightness adjustment
-180° rotation
-Pixelation effect
-Edge highlighting
+Features  
+1. Image Processing  
+Grayscale conversion  
+Brightness adjustment  
+180° rotation  
+Pixelation effect  
+Edge highlighting  
 
-3. Audio Processing
-   Audio reversal
-   Speed up / slow down by factor
-   Echo/reverb effect
-   Song clipping by percentage
+2. Audio Processing  
+   Audio reversal  
+   Speed up / slow down by factor  
+   Echo/reverb effect  
+   Song clipping by percentage  
 
-4. Image Classification
-   K-Nearest Neighbors (KNN) classifier
-   Uses Euclidean distance over pixel data
-   Predicts image labels based on training dataset folders
+3. Image Classification  
+   K-Nearest Neighbors (KNN) classifier  
+   Uses Euclidean distance over pixel data  
+   Predicts image labels based on training dataset folders  
