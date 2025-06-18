@@ -11,11 +11,11 @@ Command Line Development: Terminal-based file I/O for testing
 
 Features
 1. Image Processing
-   Grayscale conversion
-   Brightness adjustment
-   180° rotation
-   Pixelation effect
-   Edge highlighting
+Grayscale conversion
+Brightness adjustment
+180° rotation
+Pixelation effect
+Edge highlighting
 
 3. Audio Processing
    Audio reversal
