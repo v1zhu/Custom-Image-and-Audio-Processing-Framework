@@ -3,11 +3,17 @@ Custom Image & Audio Processing Framework - Programming and Basic Data Structure
 This project implements a modular, object-oriented system for processing and classifying multimedia data, including RGB images and 1D audio waveforms. It features a tiered image/audio processing pipeline
 and a custom K-Nearest Neighbors (KNN) image classifier built from scratch.
 
+
 Technologies & Concepts
+
 Python (OOP): Classes, inheritance, encapsulation
+
 Data Structures: Lists, nested data structures 
+
 Algorithm Design: Distance metrics, sorting, voting systems
+
 Testing: Doctests embedded in class method
+
 Command Line Development: Terminal-based file I/O for testing
 
 Features
