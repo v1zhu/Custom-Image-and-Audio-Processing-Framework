@@ -4,7 +4,7 @@ This project implements a modular, object-oriented system for processing and cla
 and a custom K-Nearest Neighbors (KNN) image classifier built from scratch.
 
 Technologies & Concepts
-Python (OOP): Classes, inheritance, encapsulation
+Python (OOP): Classes, inheritance, encapsulation\n
 Data Structures: Lists, nested data structures
 Algorithm Design: Distance metrics, sorting, voting systems
 Testing: Doctests embedded in class methods
