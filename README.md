@@ -17,13 +17,13 @@ Features
    Pixelation effect
    Edge highlighting
 
-2. Audio Processing
+3. Audio Processing
    Audio reversal
    Speed up / slow down by factor
    Echo/reverb effect
    Song clipping by percentage
 
-3. Image Classification
+4. Image Classification
    K-Nearest Neighbors (KNN) classifier
    Uses Euclidean distance over pixel data
    Predicts image labels based on training dataset folders
