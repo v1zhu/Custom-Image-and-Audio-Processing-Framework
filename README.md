@@ -5,7 +5,7 @@ and a custom K-Nearest Neighbors (KNN) image classifier built from scratch.
 
 Technologies & Concepts
 Python (OOP): Classes, inheritance, encapsulation
-Data Structures: Lists, nested data structures
+Data Structures: Lists, nested data structures 
 Algorithm Design: Distance metrics, sorting, voting systems
 Testing: Doctests embedded in class method
 Command Line Development: Terminal-based file I/O for testing
